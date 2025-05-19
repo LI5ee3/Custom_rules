@@ -1,6 +1,5 @@
 # 自用分流规则
 
-## 自定义规则
 * DOMAIN-SUFFIX,google.com,Proxy 匹配域名后缀(交由Proxy代理服务器组)
 * DOMAIN-KEYWORD,google,Proxy 匹配域名关键字(交由Proxy代理服务器组)
 * DOMAIN,google.com,Proxy 匹配域名(交由Proxy代理服务器组)
