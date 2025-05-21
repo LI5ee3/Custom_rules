@@ -32,8 +32,6 @@ DOMAIN,ntp1.aliyun.com
 DOMAIN,ntp.ntsc.ac.cn
 DOMAIN,cn.ntp.org.cn
 
-DOMAIN,sysupgrade.kyarucloud.moe
-
 # T-Mobile Wifi Calling服务器
 DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
