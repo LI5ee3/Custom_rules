@@ -11,12 +11,12 @@ DOMAIN-SUFFIX,wise.com
 DOMAIN,mtr.mastercardservices.com
 
 # Xbox下载
-assets1.xboxlive.cn
-assets2.xboxlive.cn
-d1.xboxlive.cn
-d2.xboxlive.cn
-dlassets.xboxlive.cn
-dlassets2.xboxlive.cn
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,d1.xboxlive.cn
+DOMAIN,d2.xboxlive.cn
+DOMAIN,dlassets.xboxlive.cn
+DOMAIN,dlassets2.xboxlive.cn
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN,assets1.xboxlive.com
