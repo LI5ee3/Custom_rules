@@ -7,8 +7,10 @@ DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,ctm.net
 DOMAIN-SUFFIX,three.com.hk
 DOMAIN-SUFFIX,mastercard.com.hk
-DOMAIN-SUFFIX,wise.com
 DOMAIN,mtr.mastercardservices.com
+
+# Wise
+DOMAIN-KEYWORD,wise
 
 # Xbox下载
 DOMAIN,assets1.xboxlive.cn
