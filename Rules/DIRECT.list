@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,three.com.hk
 DOMAIN-SUFFIX,mastercard.com.hk
 DOMAIN,mtr.mastercardservices.com
 
+# OneDrive
+DOMAIN,my.microsoftpersonalcontent.com
+
 # Wise
 DOMAIN-KEYWORD,wise
 
