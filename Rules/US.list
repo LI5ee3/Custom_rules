@@ -5,3 +5,8 @@ DOMAIN-SUFFIX,numberbarn.com
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-KEYWORD,tmobile
 DOMAIN-KEYWORD,t-mobile
+
+# IPTV
+DOMAIN-SUFFIX,smart.pendy.dpdns.org
+DOMAIN-SUFFIX,sport.pendy.dpdns.org
+DOMAIN-SUFFIX,docker.livednow.dpdns.org
