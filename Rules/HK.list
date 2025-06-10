@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,contentstack.io
 DOMAIN-SUFFIX,mtr.com.hk
 DOMAIN,subsidy-app.ptfss.hk
 DOMAIN,xroh.cbp.gemalto.com
+
+# IPTV
+DOMAIN-SUFFIX,live3.tdm.com.mo
+DOMAIN-SUFFIX,locallive.tdm.com.mo
