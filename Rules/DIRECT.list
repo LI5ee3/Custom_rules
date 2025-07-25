@@ -6,9 +6,6 @@ DOMAIN-SUFFIX,ctm.net
 DOMAIN-SUFFIX,mastercard.com.hk
 DOMAIN,mtr.mastercardservices.com
 
-# OneDrive
-DOMAIN,my.microsoftpersonalcontent.com
-
 # Wise
 DOMAIN-KEYWORD,wise
 
