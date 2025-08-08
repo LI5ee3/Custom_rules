@@ -20,7 +20,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
+      - 🇺🇸 美国节点
       - 🇯🇵 日本节点
       - 🇨🇳 台湾节点
       - 🇸🇬 新加坡节点
@@ -31,7 +31,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
+      - 🇺🇸 美国节点
       - 🀄️ 大陆直连
       - 🇭🇰 香港落地
       - 🇺🇸 美国落地
@@ -39,7 +39,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
+      - 🇺🇸 美国节点
       - 🀄️ 大陆直连
       - 🇭🇰 香港落地
       - 🇺🇸 美国落地
@@ -47,7 +47,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
+      - 🇺🇸 美国节点
       - 🀄️ 大陆直连
       - 🇭🇰 香港落地
       - 🇺🇸 美国落地
@@ -55,7 +55,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
+      - 🇺🇸 美国节点
       - 🇯🇵 日本节点
       - 🇨🇳 台湾节点
       - 🇸🇬 新加坡节点
@@ -65,7 +65,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇭🇰 香港节点
-      - 🇺🇲 美国节点
+      - 🇺🇸 美国节点
       - 🇯🇵 日本节点
       - 🇨🇳 台湾节点
       - 🇸🇬 新加坡节点
@@ -91,7 +91,7 @@ proxy-groups:
     type: fallback
     tolerance: 20
     interval: 300
-  - name: 🇺🇲 美国节点
+  - name: 🇺🇸 美国节点
     include-all: true
     filter: (?=.*(美国|US|(?i)States))^((?!(落地|自建|港|日|台|新)).)*$
     type: fallback
