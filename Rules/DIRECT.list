@@ -17,13 +17,6 @@ DOMAIN,ntp1.aliyun.com
 DOMAIN,ntp.ntsc.ac.cn
 DOMAIN,cn.ntp.org.cn
 
-# T-Mobile Wifi Calling服务器
-DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
-
 # steam下载
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,st.dl.bscstorage.net
