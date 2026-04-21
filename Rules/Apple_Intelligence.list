@@ -1,1 +1,27 @@
+# > NAME: Apple Siri & Apple Intelligence
+# > DESCRIPTION: 适用于 Apple Siri、Spotlight 建议及 Apple Intelligence 核心服务的 Surge 规则
+# > UPDATED: 2026-04-21
 
+# ===== Apple Intelligence 模型下载与核心 API =====
+DOMAIN,math-api.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,modelcatalog.apple.com
+DOMAIN,ai.apple.com
+
+# ===== Siri 语音处理与核心服务器 =====
+DOMAIN,guzzoni.apple.com
+DOMAIN,siri.apple.com
+DOMAIN,seed-sequoia.siri.apple.com
+DOMAIN,sequoia.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+
+# ===== Spotlight / Siri 建议 / ChatGPT 接入网关 =====
+# smoot.apple.com 是 Siri 建议和 Apple Intelligence 调度第三方 AI (如 ChatGPT) 的关键域名
+DOMAIN,api.smoot.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,smoot.apple.cn
+
+# ===== 辅助域名 =====
+# 部分 Siri 请求可能会经过以下通用域名，可根据自身需求决定是否加入
+DOMAIN-KEYWORD,siri
