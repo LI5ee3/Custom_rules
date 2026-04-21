@@ -1,19 +1,13 @@
-# ===== Apple Intelligence 模型下载与核心 API =====
-DOMAIN,math-api.apple.com
-DOMAIN,apple-relay.apple.com
+# Siri和听写请求
+DOMAIN,guzzoni.apple.com
+
+# 搜索服务，包括Siri、聚焦、查询、Safari浏览器、新闻、信息和音乐
+DOMAIN-SUFFIX,smoot.apple.com
+
+# 私有云计算
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
-DOMAIN,modelcatalog.apple.com
-DOMAIN,ai.apple.com
 
-# ===== Siri 语音处理与核心服务器 =====
-DOMAIN,guzzoni.apple.com
-DOMAIN,siri.apple.com
-DOMAIN,seed-sequoia.siri.apple.com
-DOMAIN,sequoia.apple.com
-DOMAIN-SUFFIX,siri.apple.com
-
-# ===== Spotlight / Siri 建议 / ChatGPT 接入网关 =====
-# smoot.apple.com 是 Siri 建议和 Apple Intelligence 调度第三方 AI (如 ChatGPT) 的关键域名
-DOMAIN-SUFFIX,smoot.apple.com
+# Apple智能扩展
+DOMAIN,apple-relay.apple.com
