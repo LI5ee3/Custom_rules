@@ -1,7 +1,3 @@
-# > NAME: Apple Siri & Apple Intelligence
-# > DESCRIPTION: 适用于 Apple Siri、Spotlight 建议及 Apple Intelligence 核心服务的 Surge 规则
-# > UPDATED: 2026-04-21
-
 # ===== Apple Intelligence 模型下载与核心 API =====
 DOMAIN,math-api.apple.com
 DOMAIN,apple-relay.apple.com
